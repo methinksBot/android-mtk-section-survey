@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.methinksBot</groupId>
   <artifactId>mtk-section-survey</artifactId>
-  <version>0.51</version>
+  <version>0.52</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -41,12 +41,6 @@
       <artifactId>databinding-ktx</artifactId>
       <version>7.3.0</version>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-android-extensions-runtime</artifactId>
-      <version>1.7.10</version>
-      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
@@ -117,13 +111,13 @@
     <dependency>
       <groupId>com.github.methinksBot</groupId>
       <artifactId>android-mtk-shared-module</artifactId>
-      <version>0.91</version>
+      <version>0.92</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.github.methinksBot</groupId>
       <artifactId>android-mtk-common</artifactId>
-      <version>0.91</version>
+      <version>0.92</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
