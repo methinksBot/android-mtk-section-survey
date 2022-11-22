@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.methinksBot</groupId>
   <artifactId>mtk-section-survey</artifactId>
-  <version>0.53</version>
+  <version>0.54</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -111,13 +111,13 @@
     <dependency>
       <groupId>com.github.methinksBot</groupId>
       <artifactId>android-mtk-shared-module</artifactId>
-      <version>0.93</version>
+      <version>0.94</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.github.methinksBot</groupId>
       <artifactId>android-mtk-common</artifactId>
-      <version>0.92</version>
+      <version>0.93</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
